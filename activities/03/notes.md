@@ -19,6 +19,7 @@ Photos per category: 20 and 20
 - 3 photos in a light gray wooden table with light background then 2 side angled picture and 1 top view for each category
 - 3 photos in a stone-like table with light background then 2 side angled picture and 1 top view for each category
 - 2 photos in a wooden chair with light background then 2 side angled picture and 1 top view for each category
+
 Final validation accuracy: transfer 1.00 · from scratch 0.30   
 
 ## My kernel (Part 2c)
